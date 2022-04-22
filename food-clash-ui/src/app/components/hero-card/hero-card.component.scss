@@ -1,0 +1,10 @@
+@import "../../../styles.scss";
+
+.hero-card {
+    background-color: map-get($map: $app-colors, $key: 100);
+
+    img {
+        height: 450px;
+        object-fit: cover;
+    }
+}

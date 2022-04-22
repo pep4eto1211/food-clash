@@ -1,0 +1,15 @@
+$spacing: 50px;
+
+.hero-card {
+    margin-top: 10px;
+    padding-left: $spacing;
+    padding-right: $spacing;
+}
+
+.latest-test {
+    margin-top:40px;
+
+    h2 {
+        margin-left: $spacing;
+    }
+}
